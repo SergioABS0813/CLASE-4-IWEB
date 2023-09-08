@@ -26,3 +26,8 @@ pero si se pueden utilizar en la práctica.
 ## Clase OBJECT (Padre de todas las clases)
 
 ![ob](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/ed4b4b2a-8ba7-4220-bb8c-85bf0ba54dd7)
+
+## Atributos del padre e hijo
+Los atributos que se hereden son privados siempre, por lo que teóricamente no podría heredarlos, pero sí se puede MEDIANTE GETTERS Y SETTERS ya que son PUBLIC :D
+
+PONER IMAGEEEEEEEEEEEEEEEEEEEEEEEN
