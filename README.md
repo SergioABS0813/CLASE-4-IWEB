@@ -30,4 +30,29 @@ pero si se pueden utilizar en la práctica.
 ## Atributos del padre e hijo
 Los atributos que se hereden son privados siempre, por lo que teóricamente no podría heredarlos, pero sí se puede MEDIANTE GETTERS Y SETTERS ya que son PUBLIC :D
 
-PONER IMAGEEEEEEEEEEEEEEEEEEEEEEEN
+## Palabra "super" en CONSTRUCTOR
+Invoca al constructor de la clase padre.
+
+![as](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/562439f5-8ea4-4bc0-a6b8-c180b1c8057c)
+
+## Palabra "super" en MÉTODOS
+Puede ser usado en cualquier lado de clase hijo.
+En Java no se puede hacer super.super.... (como para llegar a un método de clase abuelo).
+
+![xs](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/447139f7-7546-4c39-9483-69685bbf6b31)
+
+## Sobreescritura de MÉTODOS
+Es cuando un clase padre y un clase hijo repiten el nombre del MÉTODO, entonces si instanciamos en la clase hijo, el método será del hijo y no del padre.
+
+PONER IMAGEEEEEN
+
+## Modificadores de acceso en SOBREESCRITURA DE MÉTODOS
+
+Si en clase Padre se tiene un método con modificador protected, en clase hijo el método puede tener modificador public pero no private porque tiene menor visibilidad que protected.
+
+![aaa](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/724c7474-67f9-4521-b610-bc2eaa19315e)
+
+## Polimorfismo
+
+
+
