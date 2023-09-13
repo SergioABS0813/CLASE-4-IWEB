@@ -55,4 +55,12 @@ Si en clase Padre se tiene un método con modificador protected, en clase hijo e
 ## Polimorfismo
 
 
+## Instance of
+Sirve para poder diferenciar entre una larga lista de clases hijos cuando esta lista fue creada con el tipo de dato de la clase del Padre.
+
+![instance](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/950e33a0-efa8-463a-9755-589c23942cbf)
+
+## Remove o add (AÑADIR O ELIMINAR ELEMENTOS DE UNA LISTA)
+Lo mismo que remove y add
+
 
