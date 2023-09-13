@@ -63,4 +63,7 @@ Sirve para poder diferenciar entre una larga lista de clases hijos cuando esta l
 ## Remove o add (AÑADIR O ELIMINAR ELEMENTOS DE UNA LISTA)
 Lo mismo que remove y add
 
+![b](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/0f7ccb56-e807-4ca7-b024-d3ac10e9a36f)
+
+## NOTA: COLOCAR BREAK A LOS FOR CON UN ARRAYLIST (como arriba)
 
