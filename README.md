@@ -67,3 +67,9 @@ Lo mismo que remove y add
 
 ## NOTA: COLOCAR BREAK A LOS FOR CON UN ARRAYLIST (como arriba)
 
+## Usar constructor como medio para asignarle a los objetos (clase) un atributo por default
+Donde estado es un atributo public
+
+![xd](https://github.com/SergioABS0813/CLASE-4-IWEB/assets/134556600/6801e08a-dbb8-430f-a53f-e5923a758999)
+
+
